@@ -1,0 +1,15 @@
+.panda bg-danger
+{
+    background-color:blue !important ;
+}
+.categories img{
+   width: 100px;
+}
+.panda-buy-btn-btn-warning{
+    background-color:bisque;
+    color: black;
+ 
+   border-radius: 8px;
+   padding: 9px 25px;
+   border: none;
+}
